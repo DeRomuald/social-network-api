@@ -37,4 +37,3 @@ node server.js
 ## Contacts
 Created by:
 - [Rome Romulus](https://github.com/DeRomuald).
-# social-network-api
