@@ -29,7 +29,7 @@ npm install
 
 node server.js
 ```
- http:// locahost:3001 to use application
+ http:// locahost:3001 to view in browser
 
 ## Acknowledgements
 - This project was inspired by UM Coding Boot Camp.
