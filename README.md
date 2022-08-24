@@ -23,11 +23,11 @@ Project is created with:
 ## Installation
 
 ``` terminal
-git clone git@github.com:DeRomuald/e-commerce-backend.git
+git clone git@github.com:DeRomuald/social-network-api.git
 
 npm install
 
-npm start
+node server.js
 ```
  http:// locahost:3001 to use application
 
